@@ -1,0 +1,6 @@
+cricket,football
+volleyball,badminton
+football,volleyball
+basketball,carrom
+badminton,chess
+
